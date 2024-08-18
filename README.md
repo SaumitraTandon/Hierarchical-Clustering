@@ -1,6 +1,6 @@
 # Hierarchical Clustering in Python and R
 
-This project provides a comprehensive guide to implementing Hierarchical Clustering using Python. Hierarchical Clustering is a powerful unsupervised learning technique that organizes data into a tree-like structure, revealing natural groupings within the dataset. This notebook walks through the entire process, from data preprocessing to the visualization of clusters using dendrograms.
+This project provides a comprehensive guide to implementing Hierarchical Clustering using Python & R. Hierarchical Clustering is a powerful unsupervised learning technique that organizes data into a tree-like structure, revealing natural groupings within the dataset. This notebook walks through the entire process, from data preprocessing to the visualization of clusters using dendrograms.
 
 ## Table of Contents
 
